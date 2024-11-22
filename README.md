@@ -27,6 +27,8 @@
 <h1 align="left">My projects</h1>
 <h3 align="left">-Python</h3>
 <td><a href="https://github.com/zzang77/Haneol_Nam.git"><b>Drawing the national flags</b></a></td>
+</p>
+<td><a href="https://github.com/zzang77/hello-world.git"><b>Making a simple game</b></a></td>
 
 <h1 align="left">My github stats</h1>
 
